@@ -7,3 +7,4 @@ sudo systemctl start arangodb3
 sudo systemctl status arangodb3
 sudo arangosh
 sudo systemctl status arangodb3
+sudo systemctl status arangodb3
